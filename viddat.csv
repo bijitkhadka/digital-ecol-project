@@ -1,0 +1,407 @@
+sound,date,starttime,endtime,pre,during,post,time_left_feeder,number,species,comments
+silent,4/22/2023,22:02:25,22:02:57,na,na,na,na,na,na,Night
+dog,4/22/2023,22:06:43,22:07:16,na,na,na,na,na,na,Night
+human,4/23/2023,6:12:11,6:12:43,feeding,flies away,absent,17,2,house finch,
+silent,4/23/2023,6:18:15,6:18:47,flies away,absent,absent,2,1,nuthatch,
+hawk,4/23/2023,6:21:48,6:22:20,feeding,feeding,feeding,na,1,nuthatch,
+human,4/23/2023,6:31:13,6:31:46,feeding,feeding,feeding,na,2,house finch,
+hawk,4/23/2023,6:34:46,6:35:19,feeding,feeding,feeding,na,1,house finch,
+silent,4/23/2023,6:41:58,6:42:31,na,na,na,na,0,na,Wind triggered
+hawk,4/23/2023,6:46:08,6:46:41,feeding,flies away,absent,3,1,red-bellied woodpecker,
+bird,4/23/2023,6:49:42,6:50:15,feeding,flies away,absent,5,1,red-bellied woodpecker,Bird left and came back
+hawk,4/23/2023,6:53:40,6:54:13,feeding,flies away,absent,6,1,red-bellied woodpecker,
+human,4/23/2023,6:57:36,6:58:09,na,na,na,na,0,na,Wind triggered
+dog,4/23/2023,7:01:44,7:02:17,feeding,flies away,absent,4,1,red-bellied woodpecker,
+hawk,4/23/2023,7:06:01,7:06:34,flies away,feeding,absent,2,3,nuthatch,2 birds came to feeder at 16 sec
+hawk,4/23/2023,7:09:57,7:10:30,feeding,flies away,feeding,18,2,red-bellied woodpecker,white breasted nuthatch on camera starting at 19 sec
+dog,4/23/2023,7:13:47,7:14:20,feeding,flies away,feeding,8,2,nuthatch,Another white-breasted nuthatch came on screen at 34 sec
+hawk,4/23/2023,7:17:54,7:18:27,feeding,flies away,absent,3,2,red-bellied woodpecker,woodpecker left but there was an unidentifiable finch at the feeder the whole video
+human,4/23/2023,7:21:27,7:22:00,feeding,flies away,absent,8,1,unk,
+silent,4/23/2023,7:31:54,7:32:27,feeding,flies away,absent,10,1,nuthatch,
+silent,4/23/2023,7:35:43,7:36:16,NA,flies away,absent,7,1,nuthatch,Bird was off camera until 6 seconds
+bird,4/23/2023,7:40:02,7:40:35,feeding,flies away,absent,10,1,red-bellied woodpecker,
+human,4/23/2023,7:43:40,7:44:13,feeding,flies away,absent,10,2,red-bellied woodpecker,Chickadee on camera from 24 to 31 sec
+dog,4/23/2023,7:47:13,7:47:47,feeding,feeding,feeding,na,2,house finch,
+human,4/23/2023,7:50:47,7:51:19,feeding,feeding,feeding,na,2,house finch,
+dog,4/23/2023,7:54:20,7:54:53,na,flies away,absent,18,2,chickadee,focal bird left when red bellied woodpecker appeared
+human,4/23/2023,7:57:53,7:58:25,feeding,feeding,flies away,30,2,chickadee,chickadee flew off just prior to house sparrow landing
+hawk,4/23/2023,8:01:25,8:01:58,feeding,flies away,absent,3,3,cardinal,2 cardinals flew away at 3 sec and house sparrow stayed
+human,4/23/2023,8:04:58,8:05:31,feeding,flies away,absent,24,2,chickadee,house sparrow 
+bird,4/23/2023,8:08:31,8:09:04,feeding,flies away,absent,9,2,house finch,chased away by another house finch
+human,4/23/2023,8:12:04,8:12:37,feeding,flies away,absent,4,1,house sparrow,Good for presentation example video
+hawk,4/23/2023,8:15:37,8:16:10,na,na,na,na,0,na,
+hawk,4/23/2023,8:19:10,8:19:43,feeding,flies away,absent,11,2,nuthatch,red-headed woodpecker
+silent,4/23/2023,8:23:31,8:24:03,feeding,flies away,absent,6,2,red-bellied woodpecker,chickadee
+bird,4/23/2023,8:27:04,8:27:36,feeding,flies away,absent,20,2,red-bellied woodpecker,chickadee
+hawk,4/23/2023,8:30:41,8:31:14,feeding,flies away,feeding,6,1,chickadee,came back at 12 seconds
+hawk,4/23/2023,8:34:14,8:34:47,feeding,feeding,feeding,na,2,house sparrow,
+silent,4/23/2023,8:37:47,8:38:20,feeding,flies away,absent,18,3,house sparrow,chickadee
+hawk,4/23/2023,8:41:22,8:41:55,feeding,feeding,feeding,na,1,house sparrow,
+silent,4/23/2023,8:46:33,8:47:06,feeding,feeding,feeding,na,1,house sparrow,
+hawk,4/23/2023,8:51:17,8:51:50,feeding,flies away,absent,5,1,chickadee,
+hawk,4/23/2023,8:54:50,8:55:23,na,feeding,feeding,na,2,chickadee,Chickadee arrived on feeder at 5sec unknow other bird
+silent,4/23/2023,8:59:03,8:59:36,feeding,flies away,absent,15,1,chickadee,
+bird,4/23/2023,9:04:36,9:05:09,feeding,feeding,feeding,na,1,chickadee,
+dog,4/23/2023,9:08:25,9:08:58,flies away,absent,absent,2,2,chickadee,house finch arrived at 7 sec
+human,4/23/2023,9:12:35,9:13:08,feeding,feeding,feeding,na,1,chickadee,
+dog,4/23/2023,9:16:08,9:16:40,flies away,absent,absent,1,1,chickadee,
+hawk,4/23/2023,9:19:41,9:20:13,feeding,feeding,feeding,na,2,house sparrow,
+silent,4/23/2023,9:23:20,9:23:53,feeding,flies away,absent,7,2,chickadee,house finch arrived at 11sec
+human,4/23/2023,9:26:53,9:27:25,na,na,na,na,0,na,
+dog,4/23/2023,9:30:26,9:30:58,feeding,flies away,absent,23,2,cardinal,cardinal flew off when house sparrow landed
+hawk,4/23/2023,9:38:30,9:39:03,feeding,feeding,feeding,na,1,house sparrow,
+silent,4/23/2023,9:43:18,9:43:51,feeding,feeding,feeding,na,1,chickadee,may have been more than one chickadee
+silent,4/23/2023,9:58:14,9:58:46,feeding,flies away,absent,7,1,tufted tit-mouse,
+dog,4/23/2023,10:10:02,10:10:35,feeding,feeding,feeding,na,1,house sparrow,
+silent,4/23/2023,10:15:40,10:16:12,feeding,flies away,absent,4,1,red-bellied woodpecker,
+human,4/23/2023,10:20:18,10:20:51,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+human,4/23/2023,10:23:55,10:24:28,feeding,feeding,feeding,na,1,chickadee,
+dog,4/23/2023,10:29:06,10:29:39,feeding,feeding,feeding,na,2,house sparrow,
+dog,4/23/2023,10:32:52,10:33:25,feeding,flies away,absent,21,1,nuthatch,
+hawk,4/23/2023,10:39:47,10:40:19,feeding,feeding,feeding,na,2,house finch,
+silent,4/23/2023,10:43:56,10:44:28,feeding,feeding,feeding,na,1,house sparrow,
+silent,4/23/2023,10:53:01,10:53:33,feeding,flies away,absent,7,1,nuthatch,
+hawk,4/23/2023,10:57:01,10:57:34,feeding,feeding,absent,31,2,nuthatch,nuthatch was chased off by a red-bellied woodpecker
+silent,4/23/2023,11:01:08,11:01:41,absent,flies away,absent,4,2,cardinal,"cardinal landed at 4 and flew away immediatly, house sparrow arrived at 11 and fed until end"
+hawk,4/23/2023,11:04:41,11:05:13,feeding,flies away,absent,20,1,house sparrow,
+hawk,4/23/2023,11:08:16,11:08:49,feeding,feeding,feeding,na,1,chickadee,
+dog,4/23/2023,11:11:49,11:12:21,feeding,flies away,absent,13,1,house sparrow,
+silent,4/23/2023,11:44:51,11:45:24,feeding,feeding,feeding,na,1,house sparrow,
+dog,4/23/2023,11:57:02,11:57:35,feeding,feeding,feeding,na,1,nuthatch,
+silent,4/23/2023,12:01:08,12:01:40,feeding,feeding,feeding,na,1,house sparrow,
+human,4/23/2023,12:05:34,12:06:07,feeding,flies away,absent,10,2,nuthatch,second unknown bird landed on the feeder at 34 sec
+dog,4/23/2023,12:19:36,12:20:09,feeding,feeding,feeding,na,1,nuthatch,
+dog,4/23/2023,12:23:56,12:24:29,feeding,feeding,feeding,na,1,nuthatch,
+bird,4/23/2023,12:28:46,12:29:18,absent,feeding,feeding,na,1,chickadee,arrived at feeder at 11sec and stayed until end
+silent,4/23/2023,12:32:19,12:32:52,feeding,flies away,feeding,4,1,nuthatch,arrived at 3sec flew off at 4 came back at 13 and stayed until end
+bird,4/23/2023,12:37:32,12:38:04,feeding,feeding,feeding,na,1,nuthatch,
+bird,4/23/2023,12:41:04,12:41:37,feeding,feeding,feeding,na,1,house sparrow,
+hawk,4/23/2023,12:44:37,12:45:10,feeding,feeding,feeding,na,1,house sparrow,
+bird,4/23/2023,12:48:37,12:49:10,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+dog,4/23/2023,12:53:12,12:53:45,feeding,feeding,feeding,na,1,chickadee,
+hawk,4/23/2023,13:01:04,13:01:36,feeding,feeding,feeding,na,2,chickadee,chickadee
+human,4/23/2023,13:04:41,13:05:14,feeding,feeding,absent,27,1,house sparrow,
+silent,4/23/2023,13:13:33,13:14:06,feeding,feeding,feeding,na,1,nuthatch,
+dog,4/23/2023,13:39:58,13:40:31,feeding,flies away,absent,4,1,house finch,
+dog,4/23/2023,13:48:18,13:48:51,feeding,feeding,feeding,na,1,nuthatch,
+bird,4/23/2023,14:43:08,14:43:41,absent,feeding,feeding,na,1,nuthatch,nuthatch arrived at 12sec and stayed until end
+human,4/23/2023,15:23:10,15:23:42,flies away,absent,absent,2,2,chickadee,another chickadee came at 28 and stayed until end
+hawk,4/23/2023,15:28:02,15:28:34,feeding,flies away,absent,10,1,house finch,
+bird,4/23/2023,15:53:57,15:54:29,feeding,feeding,feeding,na,1,nuthatch,
+bird,4/23/2023,16:20:52,16:21:25,feeding,feeding,flies away,32,1,nuthatch,
+bird,4/23/2023,16:52:38,16:53:11,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+human,4/23/2023,17:17:56,17:18:28,feeding,flies away,absent,14,1,nuthatch,
+dog,4/23/2023,17:57:20,17:57:52,feeding,feeding,feeding,na,1,nuthatch,
+human,4/23/2023,18:18:34,18:19:06,feeding,flies away,absent,23,2,nuthatch,chased off by a house sparrow
+silent,4/23/2023,18:22:06,18:22:39,feeding,feeding,feeding,na,1,house sparrow,
+silent,4/23/2023,19:08:17,19:08:50,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+dog,4/23/2023,19:17:34,19:18:07,na,na,na,na,0,na,wind triggered
+silent,4/24/2023,1:17:26,1:17:59,na,na,na,na,0,na,
+bird,4/24/2023,6:04:14,6:04:47,feeding,feeding,feeding,na,1,nuthatch,
+human,4/24/2023,6:11:52,6:12:25,feeding,feeding,feeding,na,1,chickadee,
+silent,4/24/2023,6:21:16,6:21:49,feeding,flies away,absent,6,1,chickadee,
+silent,4/24/2023,6:26:23,6:26:57,feeding,feeding,feeding,na,2,house finch,house finch
+bird,4/24/2023,6:29:57,6:30:30,feeding,flies away,absent,5,3,cardinal,cardinal was chased away by house finch and a chickadee showed up at 20sec
+human,4/24/2023,6:35:29,6:36:01,feeding,feeding,feeding,na,1,cardinal,
+silent,4/24/2023,6:39:02,6:39:34,feeding,flies away,absent,15,2,cardinal,chickadee showed up at 20
+bird,4/24/2023,6:42:34,6:43:07,feeding,flies away,absent,22,1,nuthatch,
+silent,4/24/2023,6:51:32,6:52:05,flies away,absent,absent,1,2,house finch,house sparrow
+human,4/24/2023,6:55:05,6:55:38,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+silent,4/24/2023,6:59:48,7:00:21,feeding,feeding,flies away,34,1,red-bellied woodpecker,
+dog,4/24/2023,7:07:14,7:07:47,absent,feeding,flies away,28,1,house sparrow,came to feeder at 5sec and flew away at 28
+hawk,4/24/2023,7:29:07,7:29:39,flies away,absent,absent,1,1,house sparrow,
+human,4/24/2023,7:32:40,7:33:12,feeding,flies away,absent,5,1,house sparrow,
+human,4/24/2023,7:38:11,7:38:44,feeding,flies away,absent,7,1,house sparrow,
+silent,4/24/2023,7:42:03,7:42:36,feeding,feeding,feeding,na,1,house sparrow,
+dog,4/24/2023,7:48:43,7:49:16,feeding,feeding,feeding,na,2,house sparrow,
+bird,4/24/2023,7:52:46,7:53:19,feeding,feeding,flies away,32,1,chickadee,
+human,4/24/2023,7:57:11,7:57:44,feeding,flies away,absent,5,1,house sparrow,
+hawk,4/24/2023,8:01:58,8:02:31,feeding,feeding,feeding,na,1,nuthatch,
+bird,4/24/2023,8:05:42,8:06:15,feeding,flies away,absent,11,1,house sparrow,
+silent,4/24/2023,8:09:15,8:09:47,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+hawk,4/24/2023,8:12:47,8:13:20,flies away,absent,absent,2,1,house sparrow,
+human,4/24/2023,8:16:57,8:17:29,feeding,flies away,absent,7,2,house sparrow,house sparrow
+bird,4/24/2023,8:22:09,8:22:42,feeding,flies away,absent,5,1,house sparrow,
+human,4/24/2023,8:27:00,8:27:33,feeding,flies away,absent,4,2,house sparrow,chased away by a second house sparrow
+bird,4/24/2023,8:30:33,8:31:06,feeding,feeding,feeding,na,3,house sparrow,another house sparrow and a red belied woodpecker
+human,4/24/2023,8:34:39,8:35:12,feeding,flies away,absent,7,1,house sparrow,
+bird,4/24/2023,8:38:12,8:38:44,feeding,flies away,absent,11,3,chickadee,chased away by house sparrows
+bird,4/24/2023,8:41:46,8:42:19,feeding,feeding,feeding,na,1,chickadee,
+bird,4/24/2023,8:45:56,8:46:28,feeding,flies away,absent,21,1,chickadee,
+human,4/24/2023,8:53:09,8:53:41,feeding,flies away,feeding,3,1,tufted tit-mouse,left at 3 sec and came back at 29 sec
+dog,4/24/2023,8:56:42,8:57:14,feeding,feeding,flies away,29,1,house sparrow,
+bird,4/24/2023,9:00:55,9:01:28,feeding,flies away,absent,11,1,house sparrow,
+human,4/24/2023,9:05:30,9:06:03,feeding,flies away,absent,11,1,house sparrow,
+dog,4/24/2023,9:14:00,9:14:33,feeding,feeding,feeding,na,1,house sparrow,
+hawk,4/24/2023,9:28:11,9:28:43,feeding,feeding,flies away,12,1,house sparrow,
+human,4/24/2023,9:32:05,9:32:38,absent,feeding,feeding,na,1,nuthatch,came on screen at 12 sec
+bird,4/24/2023,9:35:38,9:36:11,feeding,feeding,feeding,na,1,house sparrow,
+hawk,4/24/2023,9:39:15,9:39:48,feeding,feeding,feeding,na,1,house sparrow,
+bird,4/24/2023,9:43:23,9:43:56,feeding,flies away,absent,12,1,house sparrow,
+silent,4/24/2023,9:46:56,9:47:29,feeding,flies away,absent,4,1,house sparrow,flew away as soon a soound played
+silent,4/24/2023,9:50:29,9:51:02,feeding,flies away,absent,7,1,house sparrow,
+dog,4/24/2023,9:54:02,9:54:35,feeding,feeding,feeding,na,1,nuthatch,
+dog,4/24/2023,10:08:28,10:09:01,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+dog,4/24/2023,10:12:01,10:12:34,na,na,na,na,0,na,wind trigger
+human,4/24/2023,10:16:47,10:17:19,feeding,flies away,absent,7,2,house sparrow,left when second house sparrow landed
+silent,4/24/2023,10:20:19,10:20:52,absent,feeding,feeding,na,1,chickadee,arrived at 9sec
+silent,4/24/2023,10:32:10,10:32:43,feeding,feeding,feeding,na,1,nuthatch,
+silent,4/24/2023,10:35:43,10:36:16,feeding,feeding,feeding,na,1,house sparrow,
+dog,4/24/2023,10:39:56,10:40:29,feeding,feeding,feeding,na,1,house sparrow,
+silent,4/24/2023,10:52:58,10:53:31,feeding,feeding,feeding,na,1,house sparrow,
+hawk,4/24/2023,10:56:33,10:57:06,feeding,feeding,feeding,na,1,house sparrow,
+human,4/24/2023,11:01:42,11:02:14,feeding,flies away,absent,5,1,house sparrow,
+bird,4/24/2023,11:05:51,11:06:24,na,na,na,na,0,na,wind trigger
+human,4/24/2023,11:09:24,11:09:56,absent,feeding,feeding,na,1,nuthatch,arrived on screen at 11 sec
+human,4/24/2023,11:16:20,11:16:53,feeding,flies away,absent,4,3,house sparrow,cardinal landed at 4 seconds and both birds flew away. a house sparrow landed at 34 sec
+dog,4/24/2023,11:27:40,11:28:13,feeding,feeding,feeding,na,1,chickadee,
+silent,4/24/2023,11:36:27,11:37:00,feeding,feeding,feeding,na,1,house sparrow,
+human,4/24/2023,11:41:18,11:41:51,absent,flies away,absent,5,1,house sparrow,landed at 5 sec and immediately flew away
+dog,4/24/2023,11:53:34,11:54:06,na,na,na,na,0,na,
+silent,4/24/2023,12:04:42,12:05:14,feeding,flies away,absent,4,1,house sparrow,
+bird,4/24/2023,12:08:14,12:08:47,na,na,na,na,0,na,
+bird,4/24/2023,12:11:58,12:12:30,absent,flies away,absent,10,1,house sparrow,arrived at 7 sec and laft at 10 sec
+dog,4/24/2023,12:15:30,12:16:03,feeding,flies away,absent,15,1,house sparrow,
+human,4/24/2023,12:22:43,12:23:16,na,na,na,na,0,na,
+bird,4/24/2023,12:30:06,12:30:39,feeding,feeding,feeding,na,1,house sparrow,
+silent,4/24/2023,12:35:49,12:36:21,na,na,na,na,0,na,wind triggered
+bird,4/24/2023,12:45:06,12:45:38,na,na,na,na,0,na,wind triggered
+bird,4/24/2023,12:50:21,12:50:54,feeding,feeding,feeding,na,1,house sparrow,
+human,4/24/2023,12:53:54,12:54:26,na,na,na,na,0,na,
+bird,4/24/2023,13:03:07,13:03:40,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+bird,4/24/2023,13:10:51,13:11:23,na,na,na,na,0,na,wind trigger
+hawk,4/24/2023,13:17:30,13:18:03,feeding,feeding,flies away,34,1,house sparrow,
+human,4/24/2023,13:21:03,13:21:35,feeding,flies away,absent,3,1,house sparrow,really good for presentation of bird running away
+bird,4/24/2023,13:24:35,13:25:08,na,na,na,na,0,na,wind trigger
+human,4/24/2023,13:41:58,13:42:31,feeding,flies away,absent,5,1,house finch,
+bird,4/24/2023,13:55:27,13:56:00,feeding,flies away,absent,13,1,house sparrow,
+bird,4/24/2023,13:59:00,13:59:32,na,na,na,na,0,na,wind trigger
+hawk,4/24/2023,14:02:32,14:03:05,feeding,feeding,flies away,34,1,house sparrow,
+human,4/24/2023,14:06:05,14:06:38,feeding,flies away,absent,17,1,house sparrow,
+human,4/24/2023,14:21:48,14:22:20,flies away,absent,absent,1,2,chickadee,chased away by another bird
+human,4/24/2023,14:34:50,14:35:23,feeding,flies away,absent,21,2,chickadee,another chickadee arrived at 32 sec
+dog,4/24/2023,15:09:55,15:10:27,feeding,flies away,absent,3,1,house sparrow,
+hawk,4/24/2023,15:23:40,15:24:13,absent,feeding,feeding,na,1,nuthatch,arrived at 9sec
+silent,4/24/2023,15:27:41,15:28:14,na,na,na,na,0,na,
+human,4/24/2023,15:38:01,15:38:33,na,na,na,na,0,na,
+hawk,4/24/2023,15:41:53,15:42:25,feeding,feeding,feeding,na,0,tufted tit-mouse,
+human,4/24/2023,15:45:56,15:46:29,na,na,na,na,0,na,
+hawk,4/24/2023,15:50:00,15:50:32,na,na,na,na,0,na,
+hawk,4/24/2023,15:57:23,15:57:55,feeding,feeding,feeding,na,1,house sparrow,
+silent,4/24/2023,16:04:40,16:05:13,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+hawk,4/24/2023,16:14:16,16:14:48,absent,feeding,feeding,na,1,nuthatch,on camera at 12 and stayed until end
+dog,4/24/2023,17:03:45,17:04:18,feeding,feeding,flies away,31,1,nuthatch,
+bird,4/24/2023,17:23:29,17:24:01,feeding,flies away,absent,20,1,house sparrow,
+silent,4/24/2023,17:27:16,17:27:48,feeding,flies away,absent,4,1,house sparrow,
+human,4/24/2023,17:43:08,17:43:41,feeding,feeding,feeding,na,1,nuthatch,
+hawk,4/24/2023,17:46:41,17:47:14,feeding,flies away,absent,11,1,house sparrow,
+hawk,4/24/2023,17:56:26,17:56:59,feeding,feeding,feeding,na,1,cardinal,
+human,4/24/2023,18:03:56,18:04:29,feeding,flies away,absent,3,1,house sparrow,
+bird,4/24/2023,18:07:40,18:08:12,feeding,feeding,feeding,na,1,house sparrow,
+hawk,4/24/2023,18:11:23,18:11:55,feeding,feeding,feeding,na,1,house sparrow,
+human,4/24/2023,18:19:14,18:19:47,na,na,na,na,0,na,
+silent,4/24/2023,18:34:33,18:35:06,feeding,feeding,feeding,na,1,house sparrow,
+dog,4/24/2023,18:39:41,18:40:14,na,na,na,na,0,na,
+silent,4/24/2023,18:43:27,18:44:00,absent,absent,feeding,na,1,red-bellied woodpecker,arrived @22
+human,4/24/2023,20:35:18,20:35:50,na,na,na,na,na,na,night
+bird,4/24/2023,20:50:12,20:50:45,na,na,na,na,na,na,night
+silent,4/24/2023,21:10:38,21:11:10,na,na,na,na,na,na,night
+hawk,4/24/2023,21:19:55,21:20:27,na,na,na,na,na,na,night
+human,4/25/2023,0:28:13,0:28:45,na,na,na,na,na,na,night
+silent,4/25/2023,0:33:27,0:34:00,na,na,na,na,na,na,night
+human,4/25/2023,1:31:33,1:32:05,na,na,na,na,na,na,night
+dog,4/25/2023,1:41:31,1:42:04,na,na,na,na,na,na,night
+human,4/25/2023,2:04:30,2:05:02,na,na,na,na,na,na,night
+human,4/25/2023,2:08:12,2:08:45,na,na,na,na,na,na,night
+bird,4/25/2023,2:34:32,2:35:04,na,na,na,na,na,na,night
+hawk,4/25/2023,2:51:58,2:52:31,na,na,na,na,na,na,night
+bird,4/25/2023,6:22:55,6:23:28,feeding,flies away,absent,7,1,house sparrow,
+hawk,4/25/2023,6:26:37,6:27:10,feeding,flies away,absent,18,1,house sparrow,
+bird,4/25/2023,6:30:35,6:31:08,feeding,flies away,absent,6,1,red-bellied woodpecker,
+human,4/25/2023,6:36:07,6:36:40,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+silent,4/25/2023,6:41:05,6:41:38,feeding,feeding,absent,13,1,house sparrow,chased by red-bellied woodpecker @ 13
+silent,4/25/2023,6:50:35,6:51:07,feeding,flies away,feeding,6,1,tufted tit-mouse,comes back @27
+human,4/25/2023,6:59:09,6:59:42,feeding,flies away,absent,5,1,house finch,
+silent,4/25/2023,7:02:42,7:03:15,feeding,flies away,absent,13,1,red-bellied woodpecker,
+dog,4/25/2023,7:10:00,7:10:33,feeding,feeding,feeding,na,1,nuthatch,
+bird,4/25/2023,7:24:05,7:24:38,feeding,feeding,feeding,na,1,house sparrow,
+silent,4/25/2023,7:27:38,7:28:11,feeding,flies away,absent,7,1,house sparrow,
+hawk,4/25/2023,7:31:17,7:31:50,feeding,flies away,absent,15,1,house sparrow,
+hawk,4/25/2023,7:34:50,7:35:23,na,na,na,na,na,na,wind triggered
+human,4/25/2023,7:42:07,7:42:40,na,na,na,na,na,na,wind triggered
+bird,4/25/2023,7:46:35,7:47:08,na,na,na,na,na,na,wind triggered
+hawk,4/25/2023,7:58:19,7:58:52,na,na,na,na,na,na,wind triggered
+hawk,4/25/2023,8:03:55,8:04:28,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+human,4/25/2023,8:08:05,8:08:38,feeding,flies away,absent,4,1,cardinal,house sparrow arrives @16
+silent,4/25/2023,8:11:43,8:12:16,feeding,flies away,absent,6,2,tufted tit-mouse,red-bellied woodpecker arrived @6
+human,4/25/2023,8:16:08,8:16:40,na,na,na,na,na,na,seed refill
+silent,4/25/2023,8:22:04,8:22:36,na,na,na,na,na,na,wind triggered
+human,4/25/2023,8:29:13,8:29:46,na,na,na,na,na,na,wind triggered
+silent,4/25/2023,8:33:35,8:34:08,na,na,na,na,na,na,wind triggered
+bird,4/25/2023,8:37:35,8:38:07,feeding,flies away,absent,6,2,cardinal,nuthatch arrived @6
+hawk,4/25/2023,8:41:27,8:42:00,na,na,na,na,na,na,wind triggered
+bird,4/25/2023,8:47:44,8:48:17,na,na,na,na,na,na,wind triggered
+human,4/25/2023,8:51:43,8:52:15,flies away,absent,absent,2,1,nuthatch,
+bird,4/25/2023,8:55:24,8:55:57,flies away,absent,absent,2,1,nuthatch,
+silent,4/25/2023,8:59:00,8:59:33,feeding,feeding,feeding,na,2,house sparrow,
+hawk,4/25/2023,9:03:08,9:03:41,feeding,flies away,absent,11,1,red-bellied woodpecker,
+dog,4/25/2023,9:06:41,9:07:14,feeding,flies away,absent,6,2,red-bellied woodpecker,nuthatch arrived @8
+dog,4/25/2023,9:10:14,9:10:47,absent,flies away,absent,15,1,red-bellied woodpecker,tufted tit-mouse arrived @22
+dog,4/25/2023,9:13:47,9:14:20,feeding,flies away,absent,17,1,red-bellied woodpecker,
+bird,4/25/2023,9:17:21,9:17:54,feeding,flies away,absent,21,1,house sparrow,
+human,4/25/2023,9:21:37,9:22:09,feeding,flies away,absent,8,1,house sparrow,nuthatch arrived @22
+dog,4/25/2023,9:25:10,9:25:42,feeding,feeding,absent,25,1,red-bellied woodpecker,
+bird,4/25/2023,9:28:46,9:29:19,feeding,flies away,absent,12,1,red-bellied woodpecker,nuthatch arrived @19
+human,4/25/2023,9:32:19,9:32:53,feeding,feeding,feeding,na,1,house sparrow,
+human,4/25/2023,9:35:54,9:36:26,feeding,flies away,absent,3,1,tufted tit-mouse,
+dog,4/25/2023,9:40:03,9:40:36,feeding,feeding,feeding,na,1,house sparrow,
+hawk,4/25/2023,9:46:34,9:47:07,feeding,feeding,feeding,na,1,house sparrow,
+silent,4/25/2023,9:50:07,9:50:40,na,na,na,na,na,na,wind triggered
+hawk,4/25/2023,9:57:40,9:58:13,feeding,flies away,absent,3,1,nuthatch,
+human,4/25/2023,10:01:46,10:02:19,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+hawk,4/25/2023,10:05:19,10:05:52,feeding,flies away,absent,6,1,red-bellied woodpecker,
+bird,4/25/2023,10:09:00,10:09:33,feeding,flies away,absent,3,1,red-bellied woodpecker,
+dog,4/25/2023,10:17:38,10:18:11,na,na,na,na,na,na,wind triggered
+silent,4/25/2023,10:21:13,10:21:46,absent,absent,feeding,na,1,red-bellied woodpecker,arrived @24
+hawk,4/25/2023,10:24:50,10:25:23,feeding,flies away,absent,18,1,red-bellied woodpecker,
+human,4/25/2023,10:28:36,10:29:08,feeding,flies away,absent,8,1,red-bellied woodpecker,
+human,4/25/2023,10:32:26,10:32:59,feeding,flies away,absent,17,1,red-bellied woodpecker,
+hawk,4/25/2023,10:36:00,10:36:33,feeding,flies away,absent,13,1,nuthatch,
+bird,4/25/2023,10:39:34,10:40:07,absent,absent,feeding,na,1,tufted tit-mouse,arrived @23
+hawk,4/25/2023,10:43:07,10:43:40,absent,flies away,absent,7,1,red-bellied woodpecker,
+silent,4/25/2023,10:46:40,10:47:12,absent,feeding,feeding,na,1,tufted tit-mouse,
+dog,4/25/2023,10:55:28,10:56:01,feeding,feeding,feeding,na,1,house sparrow,
+silent,4/25/2023,10:59:09,10:59:42,absent,absent,feeding,na,1,chickadee,
+dog,4/25/2023,11:03:18,11:03:51,absent,feeding,feeding,na,1,red-bellied woodpecker,house sparrow arrived @25
+silent,4/25/2023,11:06:51,11:07:24,absent,feeding,feeding,na,1,chickadee,arrived @19
+dog,4/25/2023,11:11:47,11:12:20,feeding,flies away,feeding,3,1,nuthatch,came back @31
+dog,4/25/2023,11:15:20,11:15:52,flies away,absent,absent,2,1,chickadee,
+dog,4/25/2023,11:19:14,11:19:47,absent,feeding,feeding,na,1,chickadee,
+human,4/25/2023,11:22:51,11:23:23,feeding,flies away,absent,6,2,nuthatch,chickadee comes and leaves @14
+silent,4/25/2023,11:26:33,11:27:06,feeding,flies away,absent,5,1,red-bellied woodpecker,
+hawk,4/25/2023,11:30:30,11:31:02,feeding,flies away,absent,5,1,chickadee,
+dog,4/25/2023,11:34:11,11:34:43,flies away,absent,absent,2,1,chickadee,
+bird,4/25/2023,11:38:05,11:38:38,feeding,feeding,feeding,na,2,nuthatch,red-bellied woodpecker arrived @30
+hawk,4/25/2023,11:41:38,11:42:10,feeding,feeding,feeding,na,1,cardinal,
+dog,4/25/2023,11:47:48,11:48:20,feeding,flies away,absent,4,1,chickadee,
+dog,4/25/2023,11:51:53,11:52:25,absent,absent,feeding,na,1,chickadee,arrived @29
+dog,4/25/2023,11:55:26,11:55:58,feeding,feeding,feeding,na,1,house sparrow,
+silent,4/25/2023,11:59:00,11:59:33,feeding,feeding,feeding,na,1,house finch,
+hawk,4/25/2023,12:03:10,12:03:43,na,na,na,na,na,na,wind triggered
+hawk,4/25/2023,12:06:43,12:07:15,feeding,feeding,feeding,na,2,house finch,
+human,4/25/2023,12:10:15,12:10:48,feeding,feeding,feeding,na,1,house sparrow,
+bird,4/25/2023,12:13:51,12:14:23,feeding,flies away,absent,4,2,chickadee,nuthatch arrived @14
+hawk,4/25/2023,12:17:34,12:18:07,absent,feeding,feeding,na,1,house finch,arrived @22
+silent,4/25/2023,12:21:07,12:21:40,feeding,flies away,absent,13,1,house finch,
+human,4/25/2023,12:24:42,12:25:15,feeding,flies away,absent,5,2,house sparrow,tufted tit-mouse arrived @11
+dog,4/25/2023,12:28:15,12:28:48,feeding,feeding,feeding,na,1,house finch,
+dog,4/25/2023,12:32:45,12:33:18,feeding,flies away,absent,11,1,chickadee,
+bird,4/25/2023,12:36:21,12:36:53,flies away,absent,absent,2,1,chickadee,
+human,4/25/2023,12:39:53,12:40:26,feeding,feeding,feeding,na,1,house finch,
+human,4/25/2023,12:50:52,12:51:24,feeding,flies away,absent,17,1,tufted tit-mouse,
+silent,4/25/2023,12:54:24,12:54:57,feeding,flies away,absent,19,1,nuthatch,chickadee arrives @23
+silent,4/25/2023,12:57:57,12:58:30,na,na,na,na,na,na,wind triggered
+bird,4/25/2023,13:01:37,13:02:10,feeding,flies away,absent,17,1,red-bellied woodpecker,
+hawk,4/25/2023,13:14:22,13:14:54,feeding,flies away,absent,19,1,chickadee,
+dog,4/25/2023,13:17:54,13:18:27,feeding,feeding,feeding,na,1,cardinal,
+silent,4/25/2023,13:21:27,13:22:00,flies away,absent,absent,2,1,nuthatch,
+hawk,4/25/2023,13:25:00,13:25:32,feeding,flies away,absent,11,1,red-bellied woodpecker,
+hawk,4/25/2023,13:28:55,13:29:27,feeding,flies away,absent,14,2,chickadee,nuthatch arrived @15
+silent,4/25/2023,13:32:27,13:33:00,feeding,feeding,feeding,na,1,house sparrow,
+human,4/25/2023,13:36:00,13:36:33,feeding,feeding,feeding,na,2,house sparrow,
+bird,4/25/2023,13:39:33,13:40:06,feeding,feeding,feeding,na,2,house sparrow,
+silent,4/25/2023,13:43:06,13:43:38,na,na,na,na,na,na,wind triggered
+bird,4/25/2023,13:46:49,13:47:22,feeding,flies away,absent,6,1,chickadee,
+silent,4/25/2023,14:06:19,14:06:52,feeding,flies away,absent,5,2,chickadee,nuthatch arrived @6
+silent,4/25/2023,14:09:52,14:10:25,feeding,flies away,absent,3,2,chickadee,nuthatch arrived @4
+bird,4/25/2023,14:13:25,14:13:57,na,na,na,na,na,na,wind triggered
+hawk,4/25/2023,14:24:42,14:25:15,feeding,flies away,absent,19,1,chickadee,
+bird,4/25/2023,14:28:16,14:28:49,feeding,feeding,feeding,na,1,starling,house sparrow arrived @31
+dog,4/25/2023,14:31:49,14:32:22,feeding,flies away,absent,24,2,house sparrow,tufted tit-mouse arrived @25
+hawk,4/25/2023,14:35:33,14:36:06,feeding,flies away,absent,10,1,nuthatch,
+dog,4/25/2023,15:09:23,15:09:56,feeding,flies away,absent,9,1,red-bellied woodpecker,
+human,4/25/2023,15:17:03,15:17:35,flies away,absent,absent,2,1,nuthatch,
+silent,4/25/2023,15:22:55,15:23:28,feeding,flies away,absent,4,1,house sparrow,tufted tit-mouse arrived @31
+hawk,4/25/2023,15:26:43,15:27:15,flies away,flies away,absent,2,1,tufted tit-mouse,left and came back multiple times
+bird,4/25/2023,15:31:03,15:31:36,feeding,flies away,absent,3,1,chickadee,
+silent,4/25/2023,15:37:48,15:38:21,feeding,flies away,absent,4,1,chickadee,
+human,4/25/2023,15:41:31,15:42:04,feeding,feeding,flies away,na,1,nuthatch,
+hawk,4/25/2023,15:45:04,15:45:37,feeding,feeding,feeding,na,1,cardinal,
+human,4/25/2023,15:48:59,15:49:32,na,na,na,na,na,na,wind triggered
+silent,4/25/2023,15:53:20,15:53:53,na,na,na,na,na,na,wind triggered
+bird,4/25/2023,15:56:53,15:57:26,absent,flies away,absent,19,1,nuthatch,arrived @11 left @19
+hawk,4/25/2023,16:15:40,16:16:13,flies away,absent,absent,2,1,chickadee,
+dog,4/25/2023,16:19:46,16:20:19,feeding,flies away,absent,3,1,chickadee,
+bird,4/25/2023,16:36:15,16:36:48,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+dog,4/25/2023,16:39:48,16:40:21,feeding,feeding,feeding,na,1,red-bellied woodpecker,
+human,4/25/2023,16:44:16,16:44:48,feeding,feeding,flies away,32,1,red-bellied woodpecker,
+bird,4/25/2023,16:47:48,16:48:21,feeding,feeding,feeding,na,1,tufted tit-mouse,
+human,4/25/2023,16:53:57,16:54:30,na,na,na,na,na,na,wind triggered
+human,4/25/2023,16:57:30,16:58:03,absent,feeding,absent,20,2,chickadee,tufted tit-mouse arrives @26 leaves @26
+dog,4/25/2023,17:02:01,17:02:34,feeding,flies away,absent,5,1,red-bellied woodpecker,
+dog,4/25/2023,17:15:44,17:16:16,feeding,feeding,feeding,na,1,house sparrow,
+dog,4/25/2023,17:19:17,17:19:49,na,na,na,na,na,na,wind triggered
+dog,4/25/2023,17:23:08,17:23:41,feeding,feeding,feeding,na,2,house sparrow,
+silent,4/25/2023,17:28:43,17:29:16,na,na,na,na,na,na,wind triggered
+bird,4/25/2023,17:32:49,17:33:22,feeding,flies away,absent,11,1,nuthatch,
+hawk,4/25/2023,17:36:23,17:36:56,na,na,na,na,na,na,wind triggered
+dog,4/25/2023,17:41:05,17:41:38,feeding,flies away,absent,3,1,nuthatch,
+dog,4/25/2023,17:44:46,17:45:19,feeding,flies away,absent,17,2,nuthatch,chickadee arrived @22 left @25
+hawk,4/25/2023,17:48:23,17:48:56,feeding,feeding,feeding,na,1,house sparrow,
+bird,4/25/2023,17:52:43,17:53:16,na,na,na,na,na,na,
+bird,4/25/2023,17:56:16,17:56:49,feeding,flies away,absent,12,2,red-bellied woodpecker,#2 house finch
+silent,4/25/2023,18:00:50,18:01:23,feeding,flies away,absent,8,1,house finch,
+human,4/25/2023,18:07:29,18:08:02,feeding,flies away,absent,4,1,tufted tit-mouse,
+bird,4/25/2023,18:13:39,18:14:11,feeding,flies away,absent,3,1,tufted tit-mouse,
+human,4/25/2023,18:17:11,18:17:44,absent,feeding,flies away,24,1,tufted tit-mouse,came back @35
+bird,4/25/2023,18:21:48,18:22:21,feeding,flies away,absent,3,1,house sparrow,
+silent,4/25/2023,18:25:21,18:25:54,feeding,feeding,feeding,na,1,house sparrow,
+bird,4/25/2023,18:28:54,18:29:27,na,na,na,na,na,na,wind triggered
+dog,4/25/2023,18:41:52,18:42:25,feeding,flies away,absent,3,1,chickadee,
+bird,4/25/2023,18:45:25,18:45:58,na,na,na,na,na,na,wind triggered
+hawk,4/25/2023,18:49:00,18:49:33,feeding,flies away,absent,4,1,nuthatch,
+dog,4/25/2023,19:58:17,19:58:50,na,na,na,na,na,na,night
+hawk,4/25/2023,20:02:48,20:03:20,na,na,na,na,na,na,night
+dog,4/26/2023,6:10:41,6:11:14,feeding,feeding,absent,26,2,cardinal,red-bellied woodpecker arrived @26
+bird,4/26/2023,6:14:14,6:14:47,feeding,flies away,absent,12,1,house sparrow,
+human,4/26/2023,6:17:58,6:18:30,feeding,flies away,absent,5,1,nuthatch,
+silent,4/26/2023,6:22:18,6:22:51,feeding,flies away,feeding,3,1,nuthatch,came back @20
+bird,4/26/2023,6:25:53,6:26:26,feeding,flies away,absent,11,3,house finch,red-bellied woodpecker arrived @ 31
+bird,4/26/2023,6:29:26,6:29:58,feeding,feeding,flies away,35,2,house sparrow,house finch arrived @36
+bird,4/26/2023,6:33:40,6:34:13,feeding,flies away,absent,9,1,tufted tit-mouse,
+hawk,4/26/2023,6:37:13,6:37:46,feeding,flies away,feeding,12,1,tufted tit-mouse,came back @29
+hawk,4/26/2023,6:40:58,6:41:31,feeding,flies away,absent,9,1,red-bellied woodpecker,
+dog,4/26/2023,6:46:52,6:47:25,feeding,feeding,flies away,21,1,house sparrow,
+bird,4/26/2023,6:54:43,6:55:16,feeding,feeding,flies away,31,1,house sparrow,
+silent,4/26/2023,6:58:16,6:58:49,na,na,na,na,na,na,wind triggered
+human,4/26/2023,7:01:49,7:02:22,absent,feeding,feeding,na,1,red-bellied woodpecker,
+hawk,4/26/2023,7:05:22,7:05:55,feeding,flies away,absent,7,2,red-bellied woodpecker,nuthatch arrived @17 flies away @24
+bird,4/26/2023,7:09:28,7:10:01,feeding,flies away,absent,16,1,tufted tit-mouse,
+human,4/26/2023,7:13:01,7:13:34,feeding,feeding,feeding,na,1,tufted tit-mouse,
+hawk,4/26/2023,7:16:34,7:17:07,na,na,na,na,na,na,wind triggered
+human,4/26/2023,7:20:07,7:20:40,na,na,na,na,na,na,wind triggered
+hawk,4/26/2023,7:29:23,7:29:56,feeding,feeding,feeding,24,1,chickadee,
+silent,4/26/2023,7:32:57,7:33:30,na,na,na,na,na,na,wind triggered
+human,4/26/2023,7:36:33,7:37:06,feeding,flies away,feeding,7,1,cardinal,left and came back
+hawk,4/26/2023,7:40:06,7:40:39,na,na,na,na,na,wind triggered,
+dog,4/26/2023,7:43:39,7:44:11,feeding,flies away,absent,6,1,nuthatch,
+dog,4/26/2023,7:47:11,7:47:44,absent,absent,feeding,26,1,house sparrow,
+dog,4/26/2023,7:50:44,7:51:17,na,na,na,na,na,wind triggered,
+human,4/26/2023,7:55:33,7:56:06,feeding,flies away,absent,7,1,house sparrow,
+dog,4/26/2023,7:59:06,7:59:39,na,na,na,na,na,wind triggered,
+hawk,4/26/2023,8:03:56,8:04:29,feeding,feeding,feeding,25,1,house sparrow,
+bird,4/26/2023,8:07:35,8:08:07,feeding,feeding,feeding,30,1,red-bellied woodpecker,
+silent,4/26/2023,8:12:41,8:13:14,feeding,flies away,absent,8,2,nuthatch,#2 house sparrow
+dog,4/26/2023,8:16:14,8:16:46,feeding,flies away,absent,4,1,chickadee,
+silent,4/26/2023,8:19:46,8:20:19,feeding,feeding,feeding,na,2,house sparrow,#2 house sparrow
+silent,4/26/2023,8:23:19,8:23:52,feeding,feeding,feeding,na,2,house sparrow,#2 purple finch
+silent,4/26/2023,8:26:52,8:27:24,na,na,na,na,na,na,wind triggered
+hawk,4/26/2023,8:31:03,8:31:36,feeding,feeding,feeding,na,1,tufted tit-mouse,
+silent,4/26/2023,8:34:39,8:35:12,feeding,feeding,feeding,na,2,tufted tit-mouse,scared away a second bird that tried to land
+human,4/26/2023,8:39:13,8:39:46,feeding,feeding,feeding,na,1,tufted tit-mouse,
+bird,4/26/2023,8:42:46,8:43:19,feeding,feeding,feeding,21,1,house finch,
+human,4/26/2023,8:48:04,8:48:36,feeding,feeding,feeding,na,1,house sparrow,
+dog,4/26/2023,8:51:54,8:52:27,feeding,feeding,feeding,na,2,house finch,#2 white-breasted nuthatch
+bird,4/26/2023,8:55:30,8:56:03,flies away,absent,absent,1,1,chickadee,
+bird,4/26/2023,8:59:08,8:59:40,feeding,flies away,absent,7,2,cardinal,
+human,4/26/2023,9:02:40,9:03:13,na,na,na,na,na,na,wind triggered
