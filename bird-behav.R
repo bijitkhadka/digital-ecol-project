@@ -55,7 +55,7 @@ behav_prop_soundtime_species %>% filter(!is.na(behavior)) %>%
 
 
 ############################################################################
-##behavior by sex
+##behavior by species and sound
 
 behav_prop_soundtime_species %>% 
   filter(!is.na(behavior)) %>% 
